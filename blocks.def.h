@@ -9,6 +9,8 @@ static const Block blocks[] = {
 
     {"Vol: ", "sb-volume", 0, 10},
 
+    {"", "sb-weather", 3600, 0},
+
     {"", "sb-date", 1, 0},
 };
 
